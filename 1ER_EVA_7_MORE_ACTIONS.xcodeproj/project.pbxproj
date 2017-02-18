@@ -14,6 +14,7 @@
 		83E54FEF1E4E2CE4009BAC1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83E54FED1E4E2CE4009BAC1E /* LaunchScreen.storyboard */; };
 		83E54FFA1E4E2CE5009BAC1E /* _ER_EVA_7_MORE_ACTIONSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E54FF91E4E2CE5009BAC1E /* _ER_EVA_7_MORE_ACTIONSTests.swift */; };
 		83E550051E4E2CE5009BAC1E /* _ER_EVA_7_MORE_ACTIONSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E550041E4E2CE5009BAC1E /* _ER_EVA_7_MORE_ACTIONSUITests.swift */; };
+		83E550131E4E2D76009BAC1E /* como-cepillar-a-un-perro-de-pelo-corto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83E550121E4E2D76009BAC1E /* como-cepillar-a-un-perro-de-pelo-corto.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		83E550001E4E2CE5009BAC1E /* 1ER_EVA_7_MORE_ACTIONSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 1ER_EVA_7_MORE_ACTIONSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83E550041E4E2CE5009BAC1E /* _ER_EVA_7_MORE_ACTIONSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _ER_EVA_7_MORE_ACTIONSUITests.swift; sourceTree = "<group>"; };
 		83E550061E4E2CE5009BAC1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83E550121E4E2D76009BAC1E /* como-cepillar-a-un-perro-de-pelo-corto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "como-cepillar-a-un-perro-de-pelo-corto.jpg"; path = "../../../../Downloads/como-cepillar-a-un-perro-de-pelo-corto.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				83E54FE61E4E2CE4009BAC1E /* ViewController.swift */,
 				83E54FE81E4E2CE4009BAC1E /* Main.storyboard */,
 				83E54FEB1E4E2CE4009BAC1E /* Assets.xcassets */,
+				83E550121E4E2D76009BAC1E /* como-cepillar-a-un-perro-de-pelo-corto.jpg */,
 				83E54FED1E4E2CE4009BAC1E /* LaunchScreen.storyboard */,
 				83E54FF01E4E2CE4009BAC1E /* Info.plist */,
 			);
@@ -231,6 +234,7 @@
 			files = (
 				83E54FEF1E4E2CE4009BAC1E /* LaunchScreen.storyboard in Resources */,
 				83E54FEC1E4E2CE4009BAC1E /* Assets.xcassets in Resources */,
+				83E550131E4E2D76009BAC1E /* como-cepillar-a-un-perro-de-pelo-corto.jpg in Resources */,
 				83E54FEA1E4E2CE4009BAC1E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
